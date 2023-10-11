@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 nav{
-	background-color = #D3D3D3;
-	padding=10px;
-	margin-right:1rem;
+	background-color:#D3D3D3;
+	padding:10px;
 	list-style:none;
 }
-li{
+nav ul{
 	display:inline;
+	margin-right:1rem;
 }
