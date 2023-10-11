@@ -4,7 +4,7 @@
 	padding:10px;
 	list-style:none;
 }
-div ul{
-	display:flex;
-	margin-right:16px;
+.container > ul{
+	display:block;
+	margin-right:0px;
 }
